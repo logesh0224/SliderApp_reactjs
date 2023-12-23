@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# SLider Basic app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project was a Basic Reactjs concept of Hooks (useState) with a slider app 
 
 ## Available Scripts
 
